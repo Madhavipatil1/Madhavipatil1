@@ -3,7 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavipatil1&label=Profile%20views&color=0e75b6&style=flat" alt="madhavipatil1" /> </p>
 
-- 🔭 I’m currently working on **LLM Model for EdTech Company**
+- 🔭 I’m currently working on **LLM Model for an EdTech Company**
+
+- 🌱 I’m currently learning **Generative AI**
+
+- 👯 I’m looking to collaborate on **Innovative AI and ML projects focused on real-world applications**
+
+- 💬 Ask me about **AI, Machine Learning, Generative AI, LLM, Data Science**
+
+- 📫 How to reach me **madhavipatil2409@gmail.com**
+
+- ⚡ Fun fact **I believe humor is a key ingredient in learning! 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
