@@ -14,7 +14,7 @@
 
 ### 👩‍💼 About Me
 
-- 💼 **Data Analyst at Kytes ** — 15+ enterprise clients across IT & Pharma
+- 💼 **Data Analyst at Kytes** — 15+ enterprise clients across IT & Pharma
 - 📊 Delivered **50+ Power BI dashboards** with CXO-level visibility
 - 🏆 Recognised by **BFSI and Pharma clients** for accuracy and on-time delivery
 
@@ -32,14 +32,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 📊 **PSA Reporting Suite** | Enterprise reporting for IT & Pharma — Project Tracking, Resource Utilization, Financial P&L, CXO views | Power BI · DAX · RLS · Star Schema |
-| 📈 **Resource Utilisation Tracker** | Real-time bench visibility and capacity planning dashboard built from client pain point | Power BI · DAX · OData |
----
-
 ### 📫 Reach Me
-**Email:** madhavipatil2409@gmail.com  
+**Email:** madhavipatil2409@gmail.com
 **LinkedIn:** [linkedin.com/in/madhavi-patil-4b773321a](https://www.linkedin.com/in/madhavi-patil-4b773321a/)
